@@ -3,7 +3,7 @@ galaxy_info:
   description: Installs Nginx on a system with reverse proxy
   company: Windesheim
   role_name: apache
-  namespace: iac
+  namespace: lemonjelle
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
